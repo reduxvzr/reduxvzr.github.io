@@ -44,7 +44,7 @@ const CONFIG = new Config({
           },
           {
             name: 'Mistral',
-            url: 'https://mistral.ai/',
+            url: 'https://chat.mistral.ai/chat',
             icon: 'leaf',
             icon_color: '#64876d'
           },
