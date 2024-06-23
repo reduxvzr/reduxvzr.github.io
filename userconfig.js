@@ -70,7 +70,6 @@ const CONFIG = new Config({
             url: 'https://www.youtube.com/',
             icon: 'brand-youtube',
             icon_color: '#B22222'
-
           },
           {
             name: 'Twitch',
@@ -174,13 +173,19 @@ const CONFIG = new Config({
           links: [
             {
               name: '2ip',
-              url: 'https://www.reddit.com/r/unixporn/'
+              url: 'https://2ip.ru/'
             },
             {
               name: 'Pypi',
               url: 'https://pypi.org/',
               icon: 'brand-python',
               icon_color: '#977a3a'
+            },
+            {
+              name: 'Reddit',
+              url: 'https://www.reddit.com/',
+              icon: 'brand-reddit',
+              icon_color: '#B22222'
             }
           ]
         }
