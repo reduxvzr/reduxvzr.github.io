@@ -107,6 +107,11 @@ const CONFIG = new Config({
             icon: 'brand-yandex',
             icon_color: '#FFD700'
           },
+          {
+            name: 'Bookmarks',
+            url: 'https://app.raindrop.io/my/45372873',
+            icon: 'bookmark'
+          },
         ]
       }
       ]
