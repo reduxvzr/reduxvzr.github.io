@@ -176,6 +176,12 @@ const CONFIG = new Config({
               url: 'https://2ip.ru/'
             },
             {
+              name: 'Backup-hosting',
+              url: 'https://disk.invs.ru/ispmgr#/dashboard?func=dashboard',
+              icon: 'brand-onedrive',
+              icon_color: '#977a3a'
+            },
+            {
               name: 'Pypi',
               url: 'https://pypi.org/',
               icon: 'brand-python',
