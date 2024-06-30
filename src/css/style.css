@@ -32,7 +32,7 @@
 }
 
 :root {
-    --accent: crimson;
+    --accent: rgba(34, 33, 33, 0.863);
     --bg: #2e3440;
 }
 
